@@ -34,3 +34,4 @@ My name is Ask, I am an IT-student at UiA (University of Agder) finishing my deg
 - Cisco (CCNA)
 - Figma 
 - VMWare/VirtualBox
+- Git/GitHub
